@@ -2,9 +2,9 @@ Pod::Spec.new do |s|
   s.name             = 'MediaPipeTasksCommon'
   s.version          = '0.10.3'
   s.authors          = 'Google Inc.'
-  s.license          = { :type => 'Apache',:file => "LICENSE" }
+  s.license          = { :type => 'Apache', :file => "LICENSE" }
   s.homepage         = 'https://github.com/google/mediapipe'
-  s.source           = { :http => 'https://github.com/pipisr/MediaPipeTasksCommon/releases/download/0.10.3/frameworks.zip' }
+  s.source           = { :http => 'https://github.com/pipisr/MediaPipeTasksCommon/releases/download/0.10.3/Archive.zip' }
   s.summary          = 'MediaPipe Task Library - Text'
   s.description      = 'The common libraries of the MediaPipe Task Library'
 
